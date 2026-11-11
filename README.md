@@ -24,7 +24,7 @@ I’m a **Software Engineer at Cognizant** focused on building full-stack applic
 
 I enjoy designing practical REST APIs, building responsive interfaces, and making applications easier to maintain. Earlier, as a Full Stack Developer Intern at Cybite, I worked on **SecCouncil**, an EdTech platform built with the MERN stack.
 
-```text
+text
 Backend       Java · Spring Boot · REST APIs
 Frontend      React · JavaScript
 Data          MySQL · MongoDB
