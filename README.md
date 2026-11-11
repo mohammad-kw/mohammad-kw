@@ -27,7 +27,6 @@ Previously, I was a Full Stack Developer Intern at Cybite, where I worked on **S
 | [LedgerPay](https://github.com/mohammad-kw/LedgerPay) | A digital wallet project featuring a double-entry ledger, idempotent transfers, payment webhooks, and reconciliation. |
 | [QuickBite](https://github.com/mohammad-kw/QuickBite) | A food-ordering platform built with Spring microservices, service discovery, JWT authentication, and React. |
 | [Learnity](https://github.com/mohammad-kw/Learnity) | A MERN-based online learning platform for students, instructors, and administrators. |
-| [JavaNotes](https://github.com/mohammad-kw/JavaNotes) | Java examples and notes, organized from fundamentals through collections, multithreading, and JDBC. |
 
 ## Technologies
 
