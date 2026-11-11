@@ -2,7 +2,7 @@
 
 # Mohammad Khachrodwala
 
-### Software Engineer @ Cognizant
+### Software Engineer @Cognizant
 **Java · Spring Boot · React · REST APIs · MySQL**
 
 I build full-stack applications, with a focus on clear APIs, practical features, and maintainable code.
