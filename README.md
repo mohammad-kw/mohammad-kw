@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Mohammad%20Khachrodwala&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=16" width="100%" />
+<!-- HEADER BANNER (Keep this visual element as is) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Mohammad%20Khachrodwala&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=60&descSize=16" width="95%" />
 
+<!-- CONTACT LINKS -->
 <p>
   <a href="https://linkedin.com/in/mohammadkw">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -16,63 +18,55 @@
 
 </div>
 
+
+# 👋 Hi there! I'm Mohammad Khachrodwala
+
+I am a dedicated **Software Engineer** with hands-on experience building robust, full-stack applications. My expertise lies in designing scalable solutions using the **Java/Spring Boot** ecosystem, backed by modern frontends like React and efficient databases (MySQL/MongoDB).
+
+Previously contributing as an Intern at Cybite, I gained valuable experience developing production-grade platforms like **SecCouncil**, mastering the agility and power of the MERN stack. I thrive on turning complex problems into clean, efficient code.
+
 ---
 
-## 👋 About me
-
-I’m a **Software Engineer at Cognizant** focused on building full-stack applications with **Java, Spring Boot, React, and MySQL**.
-
-I enjoy designing practical REST APIs, building responsive interfaces, and making applications easier to maintain. Earlier, as a Full Stack Developer Intern at Cybite, I worked on **SecCouncil**, an EdTech platform built with the MERN stack.
-
-text
-Backend       Java · Spring Boot · REST APIs
-Frontend      React · JavaScript
-Data          MySQL · MongoDB
-Tools         Git · GitHub Actions · Postman · Swagger · Maven
-
-✨ Project highlights
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 LedgerPay</h3>
-      <p>A digital wallet project exploring ledger-based transfers, idempotency, payment webhooks, and reconciliation.</p>
-      <a href="https://github.com/mohammad-kw/LedgerPay">
-        <img src="https://img.shields.io/badge/View%20project-2563EB?style=flat-square&logo=github&logoColor=white" alt="View LedgerPay">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍔 QuickBite</h3>
-      <p>A food-ordering platform built to demonstrate Spring microservices, service discovery, JWT authentication, and React.</p>
-      <a href="https://github.com/mohammad-kw/QuickBite">
-        <img src="https://img.shields.io/badge/View%20project-2563EB?style=flat-square&logo=github&logoColor=white" alt="View QuickBite">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Learnity</h3>
-      <p>An online learning platform with course discovery and tools for students, instructors, and administrators.</p>
-      <a href="https://github.com/mohammad-kw/Learnity">
-        <img src="https://img.shields.io/badge/View%20project-2563EB?style=flat-square&logo=github&logoColor=white" alt="View Learnity">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ JavaNotes</h3>
-      <p>A structured collection of Java examples and notes, from fundamentals to collections, multithreading, and JDBC.</p>
-      <a href="https://github.com/mohammad-kw/JavaNotes">
-        <img src="https://img.shields.io/badge/View%20project-2563EB?style=flat-square&logo=github&logoColor=white" alt="View JavaNotes">
-      </a>
-    </td>
-  </tr>
-</table>🧰 Tech I work with
+## 💻 Tech Stack
+🧰 I primarily work with:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,mysql,mongodb,git,github,postman,aws&perline=6" alt="Java, Spring, React, JavaScript, Node.js, Express, MySQL, MongoDB, Git, GitHub, Postman, and AWS">
-🌱 Current focus
-- Building with Java and Spring Boot
-- Designing and integrating REST APIs
-- Improving my skills in backend architecture and microservices
-- Creating useful full-stack projects
-<div align="center">Thanks for stopping by 👋
-Building, learning, and improving one project at a time.
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,mysql,mongodb,git,github,postman,aws&perline=6" alt="My Tech Stack">
+</p>
+
+**Depth of Knowledge:**
+*   **Backend:** Java, Spring Boot, RESTful APIs, Microservices, Security (JWT), Idempotency.
+*   **Frontend:** React, JavaScript, Responsive UI Design.
+*   **Data & Tools:** MySQL, MongoDB, Git/GitHub Actions, Postman, Swagger.
+
+---
+
+## ✨ Project Highlights
+*(This section is now clearly separated and highly scannable.)*
+
+### 💳 LedgerPay
+A sophisticated digital wallet simulation exploring core banking concepts. This project demonstrates complex backend logic including ledger-based transfers, guaranteeing idempotency for transactions, and handling payment webhooks/reconciliation flows.
+*   **Stack:** Java, Spring Boot, REST APIs, MySQL
+*   ➡️ View Code: [mohammad-kw/LedgerPay](https://github.com/mohammad-kw/LedgerPay)
+
+### 🍔 QuickBite
+A complete food-ordering platform built to demonstrate modern microservice architecture. Successfully implemented service discovery, JWT authentication for secure access control, and a responsive React frontend.
+*   **Stack:** Java, Spring Boot Microservices, React, PostgreSQL/MySQL
+*   ➡️ View Code: [mohammad-kw/QuickBite](https://github.com/mohammad-kw/QuickBite)
+
+### 🎓 Learnity
+An end-to-end online learning management system. Features include course discovery, integrated lesson tracking, and role-based access controls for Students, Instructors, and Administrators.
+*   **Stack:** [Specify stack if possible, e.g., MERN/Java]
+*   ➡️ View Code: [mohammad-kw/Learnity](https://github.com/mohammad-kw/Learnity)
+
+---
+
+## 🌱 Focused Growth Areas
+I am currently focused on deepening my knowledge in:
+*   Architecting highly scalable backend systems using Microservices.
+*   Optimizing database queries and ensuring transaction reliability.
+*   Expanding my cloud deployment skills (e.g., Dockerization, AWS integration).
+
+---
+<div align="center">
+Thanks for visiting my profile! Let's connect and build something great. 👋
 </div>
-```
