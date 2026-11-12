@@ -41,7 +41,6 @@ Previously contributing as an Intern at Cybite, I gained valuable experience dev
 ---
 
 ## ✨ Project Highlights
-*(This section is now clearly separated and highly scannable.)*
 
 ### 💳 LedgerPay
 A sophisticated digital wallet simulation exploring core banking concepts. This project demonstrates complex backend logic including ledger-based transfers, guaranteeing idempotency for transactions, and handling payment webhooks/reconciliation flows.
